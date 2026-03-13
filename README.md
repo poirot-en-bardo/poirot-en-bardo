@@ -29,5 +29,5 @@ Here to explore the intersection of art, imaging science, and technology, with a
 * **[Multispectral Film Scanning](https://github.com/poirot-en-bardo/ms-film-scanning)** - Research on LED spectral band selection for improved colour reproduction in film digitisation.
 * **[Artefacto](https://github.com/poirot-en-bardo/art-assistant-app)** - Museum visitor guide and admin collection management application.
 
-
+<br><br>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eliza-balica/)
