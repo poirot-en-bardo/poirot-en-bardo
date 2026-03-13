@@ -14,9 +14,13 @@ Here to explore the intersection of art, imaging science, and technology, with a
 ## Technical Skills
 
 **Programming:** Java, JavaScript, TypeScript, HTML, CSS, Python, C/C++
+
 **Frameworks:** Spring Boot, Angular, Astro
+
 **Data & ML:** MATLAB, R, PyTorch, OpenCV
+
 **Tools:** Git, Docker, MySQL, Blender
+
 **Colour Science:** Device Characterisation, Colour Correction, Spectral Imaging
 
 ## Projects
