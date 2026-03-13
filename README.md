@@ -4,11 +4,12 @@ Here to explore the intersection of art, imaging science, and technology, with a
 
 ## Research Interests
 
-* Image Processing
-* Spectral Imaging
-* Colour Science
-* Machine Learning for Art Analysis
 * Digital Cultural Heritage
+* Colour Science
+* Spectral Imaging
+* Image Processing
+* Machine Learning for Art Analysis
+
 
 ## Technical Skills
 
