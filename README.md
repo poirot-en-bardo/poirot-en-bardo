@@ -1,6 +1,6 @@
 # Hi, I'm Eliza 👋
 
-Here to explore the intersection of art, imaging science, and technology, with a focus on cultural heritage and art conservation.
+Here to explore the intersection of art, imaging science, and technology, with a focus on cultural heritage and conservation.
 
 ## Research Interests
 
